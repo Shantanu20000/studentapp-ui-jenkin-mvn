@@ -15,8 +15,8 @@ div.ex {
 }
 </style>
 <body>
-	<h1>CLOUDBLITZ</h1> </br>
-	<h2>Welcomes you!!</h2> </br>
+	<h1>IT MY ADDITION</h1> </br>
+	<h2>Love you all!!</h2> </br>
 	<h2>Student admission form </h2>
 	<div class="ex">
 		<form action="registrationController" method="post">
